@@ -598,7 +598,7 @@ a {
 .btn-orange {
     height: 10vh;
     width: 17.5vw;
-    color: #0E2F4B;
+    color: var(--text);
     text-align: center;
     font-family: 'Rubik Regular', sans-serif;
     font-size: 20px;
